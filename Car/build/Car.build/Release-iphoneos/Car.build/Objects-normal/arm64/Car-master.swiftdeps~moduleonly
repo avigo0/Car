@@ -1,0 +1,7 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "751dd25ecd2d0445e0c1869a9729948f"
+build_time: [1553280770, 150559000]
+inputs:
+  "/Users/austin/Desktop/Car/Car/Car/ViewController.swift": [9223372036, 854775807]
+  "/Users/austin/Desktop/Car/Car/Car/CarClass.swift": [9223372036, 854775807]
+  "/Users/austin/Desktop/Car/Car/Car/AppDelegate.swift": [9223372036, 854775807]
