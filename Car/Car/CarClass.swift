@@ -9,7 +9,15 @@
 import Foundation
 class Car{
     let make:String?
+    var miles:Int?
+    
     init (){
         make = "Toyota"
+        miles = 0
     }
+    
+    func drive(x:Int){
+        miles! += x
+    }
+    
 }
